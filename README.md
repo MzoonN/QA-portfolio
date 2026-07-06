@@ -50,20 +50,22 @@ August 2024 – Present
 
 ---
 
-## Featured Projects
+## Portfolio
 
-### QA Projects
+### Manual QA
 
-  Game Testing
-  Test Cases
-  Bug Reports
-  Test Plans
+- 📄 Login Test Cases
+- 📄 Search Test Cases
+- 📄 Shopping Cart Test Cases
+- 📄 Checkout Test Cases
+- 🐞 Bug Reports
+- 📋 Test Plan
 
-### Software Development Projects
+### Software Development
 
-  Hydroponic Plants Application
-  Flutter Mobile Applications
-  Firebase Integration Projects
+- Hydroponic Plants Application
+- Flutter Projects
+- Firebase Integration
 
 ---
 
@@ -91,4 +93,4 @@ August 2024 – Present
 ## Connect With Me
  LinkedIn: www.linkedin.com/in/mzoon-bin-shari-575ab8286
  Email: mz45oon@gmail.com 
- phone : 0555787518 
+
