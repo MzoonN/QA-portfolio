@@ -90,4 +90,5 @@ August 2024 – Present
 
 ## Connect With Me
  LinkedIn: www.linkedin.com/in/mzoon-bin-shari-575ab8286
- Email: *(Add your email)*
+ Email: mz45oon@gmail.com 
+ phone : 0555787518 
